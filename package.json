@@ -1,13 +1,13 @@
 {
   "name": "classnames-minimal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "title": "Classnames minimal",
   "description": "Simple utility function for conditionally joining class names together",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:jonathanp/classnames-minimal.git"
+    "url": "git+ssh://git@github.com:svenheden/classnames-minimal.git"
   },
-  "author": "Jonathan Persson <persson.jonathan@gmail.com>",
+  "author": "Jonathan Svenheden <jonathan@svenheden.com>",
   "license": "MIT"
 }
